@@ -1,4 +1,4 @@
-package com.ZoomoneyApp.android.Zoomoneyt;
+package com.ZoomoneyApp.android.Zoomoney;
 
 import android.app.Activity;
 import android.content.Intent;
