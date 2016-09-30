@@ -1,0 +1,40 @@
+-injars 'C:\android\ZooPractice\BluetoothChat2 send x ,money (2)2\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'C:\android\ZooPractice\BluetoothChat2 send x ,money (2)2\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\android\build-tools\24.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\android\ZooPractice\BluetoothChat2 send x ,money (2)2\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.example.android.BluetoothChat.ZoomainActivity {
+    <init>();
+}
+
+-keep class com.example.android.BluetoothChat.BluetoothChat {
+    <init>();
+}
+
+-keep class com.example.android.BluetoothChat.DeviceListActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginmain"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:clickable="false"
+    android:background="#fde506">
+
+
+    <ListView android:id="@+id/in"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:stackFromBottom="false"
+        android:transcriptMode="alwaysScroll"
+        android:divider="@android:color/black"
+        android:dividerHeight="0.67dp"
+
+        android:drawSelectorOnTop="true"
+        android:headerDividersEnabled="false"
+        android:background="@android:color/background_light"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="최근 저금 내역"
+        android:id="@+id/textView4"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:background="@color/black"
+        android:id="@+id/relativeLayout"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="40dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/home_icon_on"
+            android:layout_marginTop="5dp" />
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="50dp"
+            android:id="@+id/imageView4"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/imageView3"
+            android:src="@drawable/cash_icon_on" />
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="40dp"
+            android:id="@+id/imageView3"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/imageView2"
+            android:src="@drawable/store_icon_on"
+            android:layout_marginTop="5dp" />
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="40dp"
+            android:id="@+id/imageView5"
+            android:src="@drawable/plus_icon_on"
+            android:layout_alignTop="@+id/imageView4"
+            android:layout_toRightOf="@+id/imageView4"
+            android:layout_marginTop="5dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeLayout"
+        android:weightSum="1"
+        android:layout_above="@+id/textView4">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="안녕하세요 ROY님"
+            android:id="@+id/textView3"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:layout_above="@+id/linearLayout"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:layout_marginBottom="10dp"
+            android:autoText="false" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="32dp">
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_gravity="right"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true">
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:id="@+id/imageView"
+                    android:src="@drawable/logout_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="로그아웃"
+                    android:id="@+id/textView6"
+                    android:textSize="20dp"
+                    android:onClick="onClickfinish"
+                    android:layout_marginTop="1dp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="69dp">
+
+            <TextView
+                android:id="@+id/Result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:text="현재 잔고 :"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

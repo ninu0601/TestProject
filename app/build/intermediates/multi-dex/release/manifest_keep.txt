@@ -1,0 +1,13 @@
+-keep class com.example.android.BluetoothChat.ZoomainActivity { <init>(); }
+-keep class com.example.android.BluetoothChat.BluetoothChat { <init>(); }
+-keep class com.example.android.BluetoothChat.DeviceListActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
