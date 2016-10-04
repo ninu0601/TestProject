@@ -1,7 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zoomain.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\zoomain.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\device_name.xml"
     },
     {
         "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
@@ -16,11 +32,19 @@
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
         "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\layout\\custom_title.xml"
     },
     {
         "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\layout\\device_list.xml"
     }
 ]
