@@ -2,5 +2,9 @@
     {
         "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     }
 ]
