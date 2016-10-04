@@ -70,11 +70,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 110,
+                        "startOffset": 111,
                         "endColumn": 45,
-                        "endOffset": 151
+                        "endOffset": 152
                     }
                 }
             },
@@ -89,11 +89,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 302,
+                        "startOffset": 307,
                         "endColumn": 101,
-                        "endOffset": 399
+                        "endOffset": 404
                     }
                 }
             },
@@ -110,9 +110,9 @@
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1050,
+                        "startOffset": 1071,
                         "endColumn": 56,
-                        "endOffset": 1102
+                        "endOffset": 1123
                     }
                 }
             },
@@ -129,9 +129,9 @@
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1276,
+                        "startOffset": 1302,
                         "endColumn": 58,
-                        "endOffset": 1330
+                        "endOffset": 1356
                     }
                 }
             },
@@ -148,9 +148,9 @@
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1203,
+                        "startOffset": 1228,
                         "endColumn": 72,
-                        "endOffset": 1271
+                        "endOffset": 1296
                     }
                 }
             },
@@ -167,9 +167,9 @@
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 858,
+                        "startOffset": 876,
                         "endColumn": 55,
-                        "endOffset": 909
+                        "endOffset": 927
                     }
                 }
             },
@@ -186,9 +186,9 @@
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 790,
+                        "startOffset": 807,
                         "endColumn": 67,
-                        "endOffset": 853
+                        "endOffset": 870
                     }
                 }
             },
@@ -203,11 +203,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 226,
+                        "startOffset": 230,
                         "endColumn": 75,
-                        "endOffset": 297
+                        "endOffset": 301
                     }
                 }
             },
@@ -224,9 +224,9 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 660,
+                        "startOffset": 675,
                         "endColumn": 60,
-                        "endOffset": 716
+                        "endOffset": 731
                     }
                 }
             },
@@ -243,9 +243,9 @@
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1134,
+                        "startOffset": 1158,
                         "endColumn": 68,
-                        "endOffset": 1198
+                        "endOffset": 1222
                     }
                 }
             },
@@ -262,9 +262,9 @@
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 721,
+                        "startOffset": 737,
                         "endColumn": 68,
-                        "endOffset": 785
+                        "endOffset": 801
                     }
                 }
             },
@@ -279,11 +279,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 188,
+                        "startOffset": 191,
                         "endColumn": 37,
-                        "endOffset": 221
+                        "endOffset": 224
                     }
                 }
             },
@@ -298,11 +298,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 463,
+                        "startOffset": 470,
                         "endColumn": 100,
-                        "endOffset": 559
+                        "endOffset": 566
                     }
                 }
             },
@@ -317,11 +317,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 404,
+                        "startOffset": 410,
                         "endColumn": 58,
-                        "endOffset": 458
+                        "endOffset": 464
                     }
                 }
             },
@@ -336,11 +336,11 @@
                 "from": {
                     "file": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 564,
+                        "startOffset": 572,
                         "endColumn": 61,
-                        "endOffset": 621
+                        "endOffset": 629
                     }
                 }
             },
@@ -357,9 +357,9 @@
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 978,
+                        "startOffset": 998,
                         "endColumn": 71,
-                        "endOffset": 1045
+                        "endOffset": 1065
                     }
                 }
             },
@@ -376,9 +376,9 @@
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 914,
+                        "startOffset": 933,
                         "endColumn": 63,
-                        "endOffset": 973
+                        "endOffset": 992
                     }
                 }
             }
