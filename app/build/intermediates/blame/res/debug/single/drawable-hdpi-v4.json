@@ -8,12 +8,12 @@
         "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-hdpi\\home_icon_on.png"
     },
     {
-        "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\store_icon_off.png",
-        "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\drawable-hdpi\\store_icon_off.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\store_icon_on.png",
         "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-hdpi\\store_icon_on.png"
+    },
+    {
+        "merged": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\store_icon_off.png",
+        "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\drawable-hdpi\\store_icon_off.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cash_icon_on.png",
@@ -36,12 +36,12 @@
         "source": "C:\\android\\ZooPractice\\Zoomoney_name\\app\\src\\main\\res\\drawable-hdpi\\zoomoney.PNG"
     },
     {
-        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zoomoney.PNG",
-        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-hdpi\\zoomoney.PNG"
-    },
-    {
         "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\store_icon_off.png",
         "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-hdpi\\store_icon_off.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zoomoney.PNG",
+        "source": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\src\\main\\res\\drawable-hdpi\\zoomoney.PNG"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_icon_off.png",
