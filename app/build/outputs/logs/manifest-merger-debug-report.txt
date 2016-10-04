@@ -54,14 +54,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.ZoomoneyApp.android.Zoomoney.BluetoothChat
+activity#com.ZoomoneyApp.android.Zoomoney.BluetoothZoomain
 ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:24:9-28:20
 	android:label
 		ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:25:19-43
 	android:configChanges
 		ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:26:19-69
 	android:name
-		ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:24:19-48
+		ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:24:19-51
 activity#com.ZoomoneyApp.android.Zoomoney.DeviceListActivity
 ADDED from C:\android\ZooPractice\Zoomoney_name\app\src\main\AndroidManifest.xml:30:9-33:72
 	android:label

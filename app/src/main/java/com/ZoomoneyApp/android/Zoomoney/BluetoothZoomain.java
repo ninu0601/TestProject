@@ -44,7 +44,7 @@ public class BluetoothZoomain extends Activity {
     int num2;
     Integer Result = 0;
     // Debugging
-    private static final String TAG = "BluetoothZoomaint";
+    private static final String TAG = "BluetoothZoomain";
     private static final boolean D = true;
 
     // Message types sent from the BluetoothChatService Handler
@@ -75,7 +75,7 @@ public class BluetoothZoomain extends Activity {
     // String buffer for outgoing messages
     private StringBuffer mOutStringBuffer;
     // Local Bluetooth adapter
-    private BluetoothAdapter mBluetoothAdapter = null;
+    public BluetoothAdapter mBluetoothAdapter = null;
     // Member object for the chat services
     private BluetoothChatService mChatService = null;
 

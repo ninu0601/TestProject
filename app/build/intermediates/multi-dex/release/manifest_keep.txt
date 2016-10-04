@@ -1,6 +1,6 @@
--keep class com.example.android.BluetoothChat.ZoomainActivity { <init>(); }
--keep class com.example.android.BluetoothChat.BluetoothChat { <init>(); }
--keep class com.example.android.BluetoothChat.DeviceListActivity { <init>(); }
+-keep class com.ZoomoneyApp.android.Zoomoney.ZoomainActivity { <init>(); }
+-keep class com.ZoomoneyApp.android.Zoomoney.BluetoothZoomain { <init>(); }
+-keep class com.ZoomoneyApp.android.Zoomoney.DeviceListActivity { <init>(); }
 -keep public class * extends android.app.backup.BackupAgent {
     <init>();
 }

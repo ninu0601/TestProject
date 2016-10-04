@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.BluetoothChat.test" >
+    package="com.example.android.BluetoothZoomain.test" >
 
     <uses-sdk
         android:minSdkVersion="11"
@@ -10,8 +10,8 @@
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.android.BluetoothChat"
-        android:targetPackage="com.example.android.BluetoothChat" />
+        android:label="Tests for com.example.android.BluetoothZoomain"
+        android:targetPackage="com.example.android.BluetoothZoomain" />
 
     <application>
         <uses-library android:name="android.test.runner" />
