@@ -130,7 +130,9 @@ public class BluetoothZoomain extends Activity {
         super.onStart();
         if(D) Log.e(TAG, "++ ON START ++");
 
+        int y = 20;
         // I am designer
+
         // If BT is not on, request that it be enabled.
         // setupChat() will then be called during onActivityResult
         if (!mBluetoothAdapter.isEnabled()) {
