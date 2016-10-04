@@ -46,6 +46,8 @@ public class ZoomainActivity extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.zoomain);
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+        // hello
+        int x = 10;
 
         // If the adapter is null, then Bluetooth is not supported
         if (mBluetoothAdapter == null) {
